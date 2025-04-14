@@ -1,0 +1,34 @@
+{
+    "cards": [
+      {
+        "imagem": "https://4nite.site/images/webp/CID_A_293_Athena_Commando_M_ParallelComic.webp",
+        "nome": "Homem-Aranha (Fortnite)",
+        "texto": "Herói multiverso que agora também constrói rampas em segundos.",
+        "linkBotao": "https://exemplo.com/homem-aranha"
+      },
+      {
+        "imagem": "https://static.tvtropes.org/pmwiki/pub/images/abcb6534_7913_4eb1_a7a5_62b081ebc628.png",
+        "nome": "Rick Sanchez",
+        "texto": "Gênio alcoólatra que sempre tem um portal pronto para fugir dos problemas.",
+        "linkBotao": "https://exemplo.com/rick-sanchez"
+      },
+      {
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7n9i7X9gL2Hubqd9Z2NNovITDisv8wp46Ww&s",
+        "nome": "Bombardeiro Crocodilo",
+        "texto": "Explosões, dentes afiados e atitude – o caçador do pântano moderno.",
+        "linkBotao": "https://exemplo.com/bombardeiro-crocodilo"
+      },
+      {
+        "imagem": "https://stories.cnnbrasil.com.br/wp-content/uploads/sites/9/2022/09/Sem-titulo360.jpg",
+        "nome": "Gru Criança",
+        "texto": "O aspirante a vilão mais fofo e determinado do bairro.",
+        "linkBotao": "https://exemplo.com/gru-crianca"
+      },
+      {
+        "imagem": "https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png",
+        "nome": "Michael Scott",
+        "texto": "Gerente regional da Dunder Mifflin. Engraçado (na cabeça dele).",
+        "linkBotao": "https://exemplo.com/michael-scott"
+      }
+    ]
+  }
